@@ -1,0 +1,56 @@
+center{
+    background-color: #DAF7A6;
+}
+legend
+{ 
+    color:#000;
+    padding-top:7px;
+ }
+ h1
+ {
+    padding-bottom: O; 
+    font-size: 40px;
+    color: #F97300;
+    text-align: center;
+ }
+select
+{
+    display:block;
+}
+option:focus
+{
+    color: white;
+    background-color: blue;
+}
+li
+{ 
+    display:inline;
+}
+li a
+{
+    
+    border-radius:10px 5px 10px 5px;
+    background-color:#F97300;
+    padding:1em 2em 1em 2em;
+    text-transform:capitalize;
+    text-decoration:none;
+    color:white;
+    border-bottom:6px outset white;
+    box-shadow: inset 5px 5px white;
+}
+div 
+{
+    margin:10px 20px; 
+   box-shadow: outset 20px solid #aaf;
+   }
+tr 
+{
+    size: 20px;
+    height:45px;
+}
+body
+{
+ background: rgb(243, 241, 239);
+ padding-bottom: 20px;
+
+}
